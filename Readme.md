@@ -5,3 +5,5 @@
 ### The idea is to have airplanes capture photos/video from the flight, and this algorithm will alert the airplane if it detected a floating human in the ocean.
 
 ### I plan on distributing it for free to use.
+
+### Working prototype here: https://youtu.be/_P--ZROb2bQ
